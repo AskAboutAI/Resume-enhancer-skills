@@ -1,7 +1,7 @@
 # Resume Enhancer Skills for Claude AI
 
 **Three AI skills that take you from raw resume to signed offer.**  
-Built by [AskAboutAI](https://www.instagram.com/askaboutai/) — follow for more AI workflow drops.
+Built by [AskAboutAI](https://www.instagram.com/askaboutai/) Follow for more AI workflow drops.
 
 ---
 
