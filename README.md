@@ -45,26 +45,26 @@ Run these steps in order. Each skill feeds the next.
 Works on both Free and Pro plans.
 
 1. Go to [claude.ai](https://claude.ai) and sign in
-2. Click **Settings** (bottom left) → **Skills**
-3. Click **Install from file**
+2. Click **Customize** (bottom left) → **the 5th button in the dashboard**
+3. Tap on it, Click **Skills**, Click **+** icon on top, then create and upload step by step these below skills. 
 4. Download the `.skill` files from the [`/skills`](./skills/) folder in this repo:
    - [`resume-optimizer-pro.skill`](./skills/resume-optimizer-pro.skill)
    - [`application-accelerator.skill`](./skills/application-accelerator.skill)
    - [`interview-to-offer-pro.skill`](./skills/interview-to-offer-pro.skill)
-5. Install each one. They appear in your Skills list immediately.
+5. Upload each one. They appear in your Skills list immediately.
 
 **To download a .skill file from GitHub:**  
 Click the file → click the **Download raw file** button (top right of the file view).
 
 ---
 
-### Option B — Claude Desktop App
+### Option B - Claude Desktop App (Pro)
 
 1. Download Claude Desktop from [claude.ai/download](https://claude.ai/download)
-2. Open the app → click your profile icon → **Settings** → **Skills**
-3. Click **Install from file**
-4. Download and install each `.skill` file from the [`/skills`](./skills/) folder
-5. Skills are now available in every Desktop conversation
+2. Click the green code button, Download as Zip from - [GitHub-Repo]() 
+3. Extract all files → Tap each of the skills folder resume-optimizer-pro,application-accelerator, interview-to-offer-pro → **convert to Zip** → **Upload each folder as Skills inside Claude**
+5. OR Download and install each `.skill` file from the [`/skills`](./skills/) folder
+6. Skills are now available in every Desktop conversation
 
 ---
 
