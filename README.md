@@ -61,7 +61,7 @@ Click the file → click the **Download raw file** button (top right of the file
 ### Option B - Claude Desktop App (Pro)
 
 1. Download Claude Desktop from [claude.ai/download](https://claude.ai/download)
-2. Click the green code button, Download as Zip from - [GitHub-Repo]() 
+2. Click the green code button, Download as Zip from - [GitHub-Repo](https://github.com/AskAboutAI/Resume-enhancer-skills.git) 
 3. Extract all files → Tap each of the skills folder resume-optimizer-pro,application-accelerator, interview-to-offer-pro → **convert to Zip** → **Upload each folder as Skills inside Claude**
 5. OR Download and install each `.skill` file from the [`/skills`](./skills/) folder
 6. Skills are now available in every Desktop conversation
